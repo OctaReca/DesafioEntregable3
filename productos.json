@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Pan",
+    "description": "Pan de campo",
+    "price": 50,
+    "thumbnail": "Sin imagen",
+    "code": "PAN",
+    "stock": 100,
+    "id": 1
+  },
+  {
+    "title": "Leche",
+    "description": "Leche descremada",
+    "price": 100,
+    "thumbnail": "Sin imagen",
+    "code": "LECHE",
+    "stock": 100,
+    "id": 2
+  },
+  {
+    "title": "Carne",
+    "description": "Carne de vaca",
+    "price": 150,
+    "thumbnail": "Sin imagen",
+    "code": "CARNE",
+    "stock": 100,
+    "id": 3
+  },
+  {
+    "title": "Pollo",
+    "description": "Pollo entero",
+    "price": 120,
+    "thumbnail": "Sin imagen",
+    "code": "POLLO",
+    "stock": 100,
+    "id": 4
+  },
+  {
+    "title": "Huevo",
+    "description": "Huevo de gallina",
+    "price": 20,
+    "thumbnail": "Sin imagen",
+    "code": "HUEVO",
+    "stock": 100,
+    "id": 5
+  },
+  {
+    "title": "Banana",
+    "description": "Banana de Ecuador",
+    "price": 40,
+    "thumbnail": "Sin imagen",
+    "code": "BANANA",
+    "stock": 100,
+    "id": 6
+  },
+  {
+    "title": "Cerveza",
+    "description": "Cerveza rubia",
+    "price": 90,
+    "thumbnail": "Sin imagen",
+    "code": "CERVEZA",
+    "stock": 100,
+    "id": 7
+  },
+  {
+    "title": "Gaseosa",
+    "description": "Gaseosa de 2 litros",
+    "price": 170,
+    "thumbnail": "Sin imagen",
+    "code": "GASEOSA2L",
+    "stock": 100,
+    "id": 8
+  },
+  {
+    "title": "Vino",
+    "description": "Vino tinto 750ml",
+    "price": 230,
+    "thumbnail": "Sin imagen",
+    "code": "VINOTINTO750",
+    "stock": 100,
+    "id": 9
+  },
+  {
+    "title": "Asado de tira",
+    "description": "Corte de carne de vaca",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "ASADO",
+    "stock": 100,
+    "id": 10
+  }
+]
